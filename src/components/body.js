@@ -9,7 +9,7 @@ function Body() {
     return (
         <div className="main-container">
             {itemList}
-      </div>
+        </div>
     )
 }
 
